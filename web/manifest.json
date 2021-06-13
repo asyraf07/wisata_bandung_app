@@ -1,6 +1,6 @@
 {
-    "name": "wisata_bandung_app",
-    "short_name": "wisata_bandung_app",
+    "name": "Wisata Bandung App",
+    "short_name": "Wisata Bandung",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
